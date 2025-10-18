@@ -47,3 +47,6 @@ Luego, se generó una variable llamada resultado, que contenía las predicciones
 Después, se creó una columna llamada 'etiqueta', destinada a guardar los resultados de la predicción realizada.
 
 Finalmente, mediante el comando output, y utilizando las columnas id y etiqueta (recién creada), se generó un nuevo archivo CSV listo para subir al ranking del profesor.
+
+<img width="383" height="143" alt="Rsultado" src="https://github.com/user-attachments/assets/2be3f1e0-11fa-41e0-96fc-b62941a70fe1" />
+
